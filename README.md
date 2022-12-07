@@ -1,4 +1,4 @@
-# Curso-Nellio
+# Curso-POO
 
 Exercícios que eu faço do Curso de POO em Java.
 
